@@ -16,7 +16,6 @@ My Responsibility
 2. Peak Load Analysis: November has the highest application volume (2,761) but also the slowest average reply (2.9 days), prompting a recommendation for automated reminders.  
 3. Preference Discovery: Universal demand for private single rooms and two-bed units across all student groups, suggesting an adjustment in room supply.  
 4. Real-Time Monitoring: A dashboard showing available rooms within the next 130 days and 1 year, enabling proactive waitlist offers and higher utilisation.  
-5. Academic Recognition: Project awarded Distinction (80/100). 
 
 
 Analysis Steps
